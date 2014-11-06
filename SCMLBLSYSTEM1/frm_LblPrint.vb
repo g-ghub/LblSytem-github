@@ -150,10 +150,7 @@ Public Class frm_LblPrint
         Me.StartPosition = FormStartPosition.CenterParent
 
 
-        MessageBox.Show("aaaa")
-        MessageBox.Show("ローカルgitテスト")
-        MessageBox.Show("ローカルgitテスト2")
-        MessageBox.Show("ローカルgitテスト3")
+        MessageBox.Show("ローカルgitテスト4")
 
 
 
