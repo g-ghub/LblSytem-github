@@ -212,6 +212,9 @@ Public Class frm_LblPrint
         Dim strBunrui1 As String
 
 
+        MessageBox.Show("ローカルgitテスト8")
+
+
         '共通変数
         Dim intOrderDay1 As Integer
         Dim intDelivery1 As Integer
