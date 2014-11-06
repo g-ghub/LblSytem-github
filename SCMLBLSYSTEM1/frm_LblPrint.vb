@@ -153,6 +153,7 @@ Public Class frm_LblPrint
         MessageBox.Show("ローカルgitテスト4")
         MessageBox.Show("ローカルgitテスト5")
         MessageBox.Show("ローカルgitテスト6")
+        MessageBox.Show("ローカルgitテスト7")
 
 
 
