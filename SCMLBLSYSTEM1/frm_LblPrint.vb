@@ -154,6 +154,7 @@ Public Class frm_LblPrint
         MessageBox.Show("ローカルgitテスト5")
         MessageBox.Show("ローカルgitテスト6")
         MessageBox.Show("ローカルgitテスト7")
+        MessageBox.Show("ローカルgitテスト9")
 
 
 
@@ -213,6 +214,7 @@ Public Class frm_LblPrint
 
 
         MessageBox.Show("ローカルgitテスト8")
+        MessageBox.Show("ローカルgitテスト9")
 
 
         '共通変数
